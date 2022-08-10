@@ -1,0 +1,14 @@
+scipy==1.2.1
+pillow>=7.1.0
+easydict
+cython
+cffi
+opencv-python
+msgpack
+matplotlib
+pyyaml==5.3.1
+tensorboardX
+tqdm
+jinja2
+pascal_voc_writer
+scikit-image
